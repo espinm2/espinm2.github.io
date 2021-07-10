@@ -6,10 +6,16 @@ I find myself in some really niche stuff with severe lack of human friendly docs
 
 👉 [https://dev.to/maxineer](https://dev.to/maxineer)
 
+# Prior Research
+In a past life I did research in the [Computer Graphics Lab](http://www.cs.rpi.edu/graphics/people.html) at Rensselaer Polytechnic Institute.
+[Research Archives](https://espinm2.github.io/archives/research.html)
+
 # Contact
 - [max.j.espinoza@gmail.com](mailto:max.j.espinoza@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/maxespinoza)
 - [Github](https://github.com/espinm2)
+
+# Resume
 
 
 
