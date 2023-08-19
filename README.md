@@ -1,6 +1,6 @@
 # About Me
 
-I'm a DevOps/Cloud Engineer at Viasat. There I work on building and operating cloud infrastructure for a variety of services. I've had my hands on everything from Ansible, Jenkins, AWS (*and it's plethora of products*), to Kubernetes, Istio, and many other recent cloud-native tools.
+I am a DevOps/Cloud Engineer at Viasat. There I work on building and operating cloud infrastructure for a variety of services. I've had my hands on everything from Ansible, Jenkins, AWS (*and it's plethora of products*), to Kubernetes, Istio, and many other recent cloud-native tools.
 
 I find working in that space complex, high-paced, but also very rewarding. Especially if you take the time to dig into history of why certain technologies have become ubiquitous (*looking at you Kubernetes!*). 
 
