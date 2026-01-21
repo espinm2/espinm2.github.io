@@ -8,13 +8,13 @@ In general I love learning about history, from the antics of Gracchi Brothers of
 
 That said, if you have any good history-tech related reads please send them my way! 😉
 
-### Other tidbits: 
+### Other tidbits:
 
 - I'm into bouldering (*rock climbing but on boulders instead of cliff sides*)
 - Simple black coffee is my signature drink
 - I have a ever growing collection of indoor plants
 
-More details on my prior work experience can be found on my [resume](https://espinm2.github.io/staging/assets/cv.pdf).
+More details on my prior work experience can be found on my [resume](https://raw.githubusercontent.com/espinm2/espinm2.github.io/refs/heads/main/assets/cv.pdf).
 
 # Blog
 I find myself in some niche stuff with lack of human friendly docs. This blog is my attempt at giving back by providing quick, high-level, visual guidance on configuring some of those newer technologies.
